@@ -8,6 +8,6 @@ public class App
 {
     public static void main( String[] args )
     {
-        System.out.println( "Testing First Freestyle Job" );
+        System.out.println( "Testing My First Freestyle Job" );
     }
 }
