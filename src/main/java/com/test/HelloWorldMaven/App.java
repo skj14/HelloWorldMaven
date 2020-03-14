@@ -1,4 +1,4 @@
-inpackage com.test.HelloWorldMaven;
+package com.test.HelloWorldMaven;
 
 /**
  * Hello world!
